@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/Banned-Mirror-Bot.git",
-    "website": "https://github.com/AbirHasan2005/Banned-Mirror-Bot/tree/main",
-    "success_url": "https://github.com/AbirHasan2005/Banned-Mirror-Bot/blob/main/README.md",
+    "repository": "https://github.com/oktest145/oktest1305",
+    "website": "https://github.com/oktest145/oktest1305",
+    "success_url": "https://github.com/oktest145/oktest1305",
     "stack": "container",
     "env": {
       "ENV": {
@@ -19,7 +19,7 @@
     },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1233237663:AAGBNaQJ4TLMnPhuqeoB_hWtQQYZcLJGdc4",
+        "value": "1871123662:AAGF23H3Xkrjy0A9LK-4AmQ5g01iGp-dvDk",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
@@ -59,17 +59,17 @@
       },
       "INDEX_URL": {
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
-        "value": "https://index.discovery.workers.dev/3:",
+        "value": "",
         "required": false
       },
       "TELEGRAM_API": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org DO NOT put this in quotes.",
-        "value": "1578262",
+        "value": "",
         "required": true
       },
       "TELEGRAM_HASH": {
         "description": "This is to authenticate to your telegram account for downloading Telegram files. You can get this from https://my.telegram.org.",
-        "value": "664ecb8d62405ae3e3e015216f6e2615",
+        "value": "",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
@@ -79,17 +79,17 @@
       },
       "MEGA_API_KEY": {
         "description": "To authenticate Mega.",
-        "value": "kC4G0Iib",
+        "value": "",
         "required": false
       },
       "MEGA_EMAIL_ID": {
         "description": "Mega Email.",
-        "value": "ainalhaque025@gmail.com",
+        "value": "",
         "required": false
       },
       "MEGA_PASSWORD": {
         "description": "Mega Password.",
-        "value": "Abir2005",
+        "value": "",
         "required": false
       },
       "USER_SESSION_STRING": {
